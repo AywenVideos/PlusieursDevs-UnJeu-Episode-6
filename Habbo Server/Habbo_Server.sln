@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habbo_Server", "Habbo_Server\Habbo_Server.csproj", "{4CAB1B09-08FA-497A-BA29-F3F914A05D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habbo_Common", "Habbo_Common\Habbo_Common.csproj", "{576EBD4F-95A4-4E33-8684-D70B52B1D039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAB1B09-08FA-497A-BA29-F3F914A05D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAB1B09-08FA-497A-BA29-F3F914A05D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAB1B09-08FA-497A-BA29-F3F914A05D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAB1B09-08FA-497A-BA29-F3F914A05D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576EBD4F-95A4-4E33-8684-D70B52B1D039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576EBD4F-95A4-4E33-8684-D70B52B1D039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576EBD4F-95A4-4E33-8684-D70B52B1D039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576EBD4F-95A4-4E33-8684-D70B52B1D039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

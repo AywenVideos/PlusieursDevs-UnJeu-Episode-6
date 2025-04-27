@@ -1,0 +1,14 @@
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\Habbo_Common.dll.config
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\Habbo_Common.dll
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\Habbo_Common.pdb
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\obj\Debug\Habbo_Common.csproj.AssemblyReference.cache
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\obj\Debug\Habbo_Common.csproj.CoreCompileInputs.cache
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\obj\Debug\Habbo_Common.dll
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\obj\Debug\Habbo_Common.pdb
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\NetSquareClient.dll
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\NetSquareCore.dll
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\NetSquareClient.pdb
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\NetSquareClient.dll.config
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\NetSquareCore.pdb
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\bin\Debug\NetSquareCore.dll.config
+C:\Users\Keks\source\repos\Habbo_Server\Habbo_Common\obj\Debug\Habbo_Co.A850591E.Up2Date

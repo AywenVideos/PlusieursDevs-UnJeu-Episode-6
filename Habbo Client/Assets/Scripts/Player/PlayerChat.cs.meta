@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 175d94c1763c6914584ca69e3a1b919f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InputFieldImage: {instanceID: 0}
+  - ColorPickerImage: {instanceID: 0}
+  - InputField: {instanceID: 0}
+  - Name: {instanceID: 0}
+  - TextBubblePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
