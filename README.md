@@ -2,7 +2,7 @@
 
 Un jeu développé par plusieurs volontaires qui n'ont pas pu se parler pendant le développement.
 
-Thème : Créer un jeu de simulation - [Vidéo YouTube](https://www.youtube.com/watch?v=)
+Thème : Créer un jeu de simulation - [Vidéo YouTube](https://www.youtube.com/watch?v=XI5UUd-cPNY)
 
 
 ## 👋 Participants :
