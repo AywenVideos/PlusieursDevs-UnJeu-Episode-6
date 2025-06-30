@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/LdrHx8gX/Banni-re-PD1-J.png)
+![image](https://github.com/user-attachments/assets/40a6faa6-456b-495e-b2fc-2524e3dcc771)
 
 Un jeu développé par plusieurs volontaires qui n'ont pas pu se parler pendant le développement.
 
